@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:SizovSergey/Travel_test.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:SizovSergey/express-mesto-gha.git
